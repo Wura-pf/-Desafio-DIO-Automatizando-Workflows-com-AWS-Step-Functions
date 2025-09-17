@@ -30,7 +30,7 @@ Tecnologias Utilizadas
 Arquitetura da Solução
 
 > Diagrama: S3 → Lambda → Validação → Ação (Mover/Excluir)  
-> (Sugestão: incluir imagem na pasta `/images` com o fluxo)
+
 
 Passo a Passo da Implementação
 
